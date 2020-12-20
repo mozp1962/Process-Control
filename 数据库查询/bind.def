@@ -1,0 +1,8 @@
+[BINDLIST1]
+BINDNAME = Bind1
+COLUMN1 = 称量日期 \\本站点\日期
+COLUMN2 = 称量时间 \\本站点\时间
+COLUMN3 = 原料重量 \\本站点\原料重量
+COLUMN4 = 原料厂家 \\本站点\原料厂家
+COLUMN5 = 原料编号 \\本站点\原料编号
+COLUMN6 = 值班人员 \\本站点\值班人员

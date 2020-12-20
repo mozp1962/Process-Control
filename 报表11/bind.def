@@ -1,0 +1,18 @@
+[BINDLIST1]
+BINDNAME = BIND1
+COLUMN1 = 日期 \\本站点\日期
+COLUMN2 = 时间 \\本站点\时间
+COLUMN3 = 闸门左开度 \\本站点\闸门左开度1
+COLUMN4 = 闸门右开度 \\本站点\闸门右开度1
+COLUMN5 = 系统压力 \\本站点\系统压力
+COLUMN6 = 操作记录 \\本站点\操作记录
+COLUMN7 = 实际工作位 \\本站点\实际工作位1
+[BINDLIST2]
+BINDNAME = BINDJL
+COLUMN1 = 日期 \\本站点\记录日期
+COLUMN2 = 时间 \\本站点\记录时间
+COLUMN3 = 闸门左开度 \\本站点\记录闸门左开度
+COLUMN4 = 闸门右开度 \\本站点\记录闸门右开度
+COLUMN5 = 系统压力 \\本站点\记录系统压力
+COLUMN6 = 操作记录 \\本站点\记录操作记录
+COLUMN7 = 实际工作位 \\本站点\记录实际工作位

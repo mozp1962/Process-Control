@@ -1,0 +1,9 @@
+[TABLE1]
+TABLENAME = TEMPLET
+COLUMN1 = 日期 3 127 2 0
+COLUMN2 = 时间 3 127 2 0
+COLUMN3 = 闸门左开度 1 1 2 0
+COLUMN4 = 闸门右开度 1 1 2 0
+COLUMN5 = 系统压力 2 1 2 0
+COLUMN6 = 操作记录 3 127 2 0
+COLUMN7 = 实际工作位 1 1 2 0

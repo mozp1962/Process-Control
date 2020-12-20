@@ -1,0 +1,10 @@
+[BINDLIST1]
+BINDNAME = BIND1
+COLUMN1 = salary \\本站点\salary
+COLUMN2 = name \\本站点\name
+COLUMN3 = age \\本站点\age
+[BINDLIST2]
+BINDNAME = BIND2
+COLUMN1 = salary \\本站点\记录salary
+COLUMN2 = name \\本站点\记录name
+COLUMN3 = age \\本站点\记录age

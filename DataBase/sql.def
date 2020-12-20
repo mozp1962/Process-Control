@@ -1,0 +1,5 @@
+[TABLE1]
+TABLENAME = table1
+COLUMN1 = salary 1 1 2 1
+COLUMN2 = name 3 127 2 1
+COLUMN3 = age 1 1 2 1
